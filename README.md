@@ -25,4 +25,4 @@ Use este código para fazer consultas caso tenha dúvidas no curso.
 
 ---
 
-Com ♥ Dener Troquatte :wave: [Linkedin](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) | [Blog](https://vidafullstack.com.br/)
+Com ♥ Márcio Dutra :wave: [Linkedin](https://www.linkedin.com/in/m%C3%A1rcio-dutra-10362222/) | [Blog](http://marciodutra.rf.gd/?i=1)
