@@ -3,22 +3,22 @@
 }
 
 html,
-body{
+body {
   height: 100%;
 }
 
-body{
+body {
   margin: 0;
   background: var(--black);
   font-family: Roboto, "Helvetica neue";
 }
 
-h1{
+h1 {
   font-size: 22px;
 }
 
 h2,
-h3{
+h3 {
   font-size: 14px;
 }
 
@@ -30,13 +30,13 @@ a {
   text-decoration: none;
 }
 
-p{
+p {
   color: var(--grey);
   font-size: 16px;
   margin: 10px 0;
 }
 
-ul{
+ul {
   list-style: none;
   padding: 0;
   margin: 0;
